@@ -114,6 +114,10 @@ questions:
   #### Have more questions?
 
   No problem! Tweet [@siteleaf](https://twitter.com/siteleaf), chat on [Slack](http://chat.siteleaf.com), or [email us](mailto:billing@siteleaf.com?subject=Question%20about%20your%20plans).
+- |-
+  #### Is it safe?
+
+  You should ask you doctor.
 layout: plans
 ---
 
